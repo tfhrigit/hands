@@ -1,1 +1,3 @@
-# hands
+analisis 
+
+demo dulu, finalnya nanti
